@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [進撃の巨人](README.md)
 
